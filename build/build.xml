@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
-<project name="add-sequence-criteria-plugin" default="dist" basedir="..">
+<project name="add-filter-sequence-plugin" default="dist" basedir="..">
 	<description>
-        Build file for add sequence by criteria plugin
+        Build file for add filter sequence plugin
     </description>
 
 	<!-- you can use this file to set the kettle-dir property or change it directly below -->
